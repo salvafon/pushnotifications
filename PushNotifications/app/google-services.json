@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071067344503",
+    "firebase_url": "https://pushnotifications-9ab1b.firebaseio.com",
+    "project_id": "pushnotifications-9ab1b",
+    "storage_bucket": "pushnotifications-9ab1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071067344503:android:c6897fa9638877449b6072",
+        "android_client_info": {
+          "package_name": "fonseca.emmanuel.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071067344503-e8liclsuqkt9oqsq8u151qv3i0iiu5cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7GV8j3VFy6KZAqlxSY4lUyIXq2CAMAAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071067344503-e8liclsuqkt9oqsq8u151qv3i0iiu5cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
